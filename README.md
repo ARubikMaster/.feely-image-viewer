@@ -1,4 +1,4 @@
-# .feely image file format
+# .feely image file format viewer
 
 
 
@@ -19,7 +19,7 @@ How to do for bash (If you use a different shell look up how to add a folder to 
 ```echo 'export PATH="$PATH:/path/to/executable/folder"' >> ~/.bashrc ```
 
 
-* 4: **Open an image**
+* 4: **To view a .feely image**
 
 If added to path:
 
@@ -43,7 +43,7 @@ You can also set your file explorer to open .feely files with feely viewer by de
 You can see an example here: https://windowsloop.com/how-to-add-to-windows-path/
 
 
-* 3: **To convert a .png image to .feely**
+* 3: **To view a .feely image**
 
 If added to path:
 
