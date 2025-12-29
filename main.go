@@ -99,7 +99,7 @@ func main() {
 		ebiten_image := ebiten.NewImageFromImage(image)
 
 		ebiten.SetWindowSize(width, height)
-		ebiten.SetWindowTitle("Hello, World!")
+		ebiten.SetWindowTitle(path)
 		if err := ebiten.RunGame(&Game{
 			width:  width,
 			height: height,
